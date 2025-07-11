@@ -1,0 +1,17 @@
+body {
+  font-family: "Arial", sans-serif;
+  direction: rtl;
+  text-align: right;
+  background-color: #f0f2f5;
+  padding: 2rem;
+}
+.login-container {
+  text-align: center;
+  padding: 2rem;
+}
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
